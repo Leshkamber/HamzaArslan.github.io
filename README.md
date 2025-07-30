@@ -1,19 +1,20 @@
 # Hamza Arslan
 
-Merhaba! Ben bir oyun geliştiricisiyim. SFML ve C++/C# kullanarak oyunlar geliştiriyorum.
+Hello! I am a game developer.Using C++/C#, SFML.
 
-**Kullandığım oyun motorları:** Gamemaker, Unity
+**Game engines I use:** Gamemaker, Unity
 
-## Projelerim
+## My Projects
 
 - **Ping Pong**  
-  Shader, ses ve state yapısı içeren örnek proje – [Kodlara Git](https://github.com/Leshkamber/ping-pong)
-## Gamejam Projelerim
+  Sample project featuring shaders, sound, and state structure – [View Code](https://github.com/Leshkamber/ping-pong)
 
-- **Göklera Şahini**
-Kodlama ve Level Tasarımı bana ait oyun -[Oyunun Sayfasına Git](https://baylenin.itch.io/gokler-sahini)
+## Gamejam Projects
 
-## İletişim
+- **Goklera Sahini**  
+  Coding and level design by me – [View Game Page](https://baylenin.itch.io/gokler-sahini)
+
+## Contact
 
 - GitHub: [github.com/Leshkamber](https://github.com/Leshkamber)
-- E-posta: leshkamber@gmail.com
+- Email: leshkamber@gmail.com
