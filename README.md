@@ -1,8 +1,8 @@
 # Hamza Arslan
 
-Merhaba! Ben bir 2D/3D oyun geliştiricisiyim. SFML ve C++/C# kullanarak oyunlar geliştiriyorum.
+Merhaba! Ben bir oyun geliştiricisiyim. SFML ve C++/C# kullanarak oyunlar geliştiriyorum.
 
-**Kullandığım grafik motorları:** Gamemaker, Unity
+**Kullandığım oyun motorları:** Gamemaker, Unity
 
 ## Projelerim
 
