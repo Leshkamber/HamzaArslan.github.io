@@ -1,4 +1,3 @@
-# HamzaArslan.github.io
 # Hamza Arslan
 
 Merhaba! Ben bir 2D/3D oyun geliştiricisiyim. SFML ve C++/C# kullanarak oyunlar geliştiriyorum.
