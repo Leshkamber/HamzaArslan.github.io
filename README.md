@@ -18,7 +18,7 @@ Hello! I am a game developer specializing in C++/C# and SFML.
   An ambitious open-world simulation. Beyond the core systems and mechanics, I acted as the lead designer, creating 3D assets, modular ship components, and immersive environment layouts. – [In Progress]
 
 - **VR Test**
-  A VR prototype featuring custom-built locomotion and physics-based interaction systems, built from scratch to replace traditional ready-made solutions. This project focuses on refining player-ground interaction, resolving teleportation clipping issues, and implementing VR-specific optimizations for seamless performance. – [View Code]()
+  A VR prototype featuring custom-built locomotion and physics-based interaction systems, built from scratch to replace traditional ready-made solutions. This project focuses on refining player-ground interaction, resolving teleportation clipping issues, and implementing VR-specific optimizations for seamless performance. – [View Game](https://leshkamber.itch.io/vrtest)
 
 ## My Models
 
