@@ -4,7 +4,7 @@ Hello! I am a game developer specializing in C++/C# and SFML.
 
 **Game engines I use:** GameMaker, Unity
 
--**Student at İstiklal Üniversitesi Dijital Oyun Tasarımı**
+-**Student at [İstiklal Üniversitesi Dijital Oyun Tasarımı](https://www.istiklal.edu.tr/dot)**
 
 ## My Projects
 
